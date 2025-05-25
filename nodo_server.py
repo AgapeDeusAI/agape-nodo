@@ -45,7 +45,7 @@ API_KEY = os.getenv("NODO_AI_API_KEY")
 AI_MODULES_CONFIG = {
     "traduzione": os.getenv("AI_MODULE_TRANSLATION_URL", "https://7d0ff2c3-973d-413e-b898-0ef9242ce498-00-2bopjz1135tl2.riker.replit.dev"),
     "voce": os.getenv("AI_MODULE_VOICE_URL", "http://91.99.124.103:3003"),
-    "documenti": os.getenv("AI_MODULE_DOCS_URL", "https://25aa5aba-5879-45e3-bca2-e18b5cf623fd-00-39cpeuk7tdz6x.kirk.replit.dev"),
+    "documenti": os.getenv("AI_MODULE_DOCS_URL", "https://25aa5aba-5879-45e3-bca2-e18b5cf623fd-00-39cpeuk7tdz6x.kirk.replit.dev/"),
     "video": os.getenv("AI_MODULE_VIDEO_URL", "https://87774083-f815-480f-9002-1f93141ae4d7-00-38f7m32ec368g.riker.replit.dev"),
     "media": os.getenv("AI_MODULE_MEDIA_URL", "https://c92b386d-5f8e-4376-8d42-05cde2043bf0-00-1m7yu23sxbbua.riker.replit.dev"),
     "finance": os.getenv("AI_MODULE_FINANCE_URL", "https://f6619c52-7895-4643-a9df-d243d0ff126f-00-26hfxudsay4t2.picard.replit.dev"),
