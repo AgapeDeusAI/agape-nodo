@@ -49,7 +49,7 @@ AI_MODULES_CONFIG = {
     "video": os.getenv("AI_MODULE_VIDEO_URL", "https://87774083-f815-480f-9002-1f93141ae4d7-00-38f7m32ec368g.riker.replit.dev"),
     "media": os.getenv("AI_MODULE_MEDIA_URL", "https://c92b386d-5f8e-4376-8d42-05cde2043bf0-00-1m7yu23sxbbua.riker.replit.dev"),
     "finance": os.getenv("AI_MODULE_FINANCE_URL", "https://f6619c52-7895-4643-a9df-d243d0ff126f-00-26hfxudsay4t2.picard.replit.dev"),
-    "code": os.getenv("AI_MODULE_CODE_URL", "https://7b782f3c-d803-4c9f-b0aa-390a5384be0e-00-3o4ya13bfhk1l.spock.replit.dev")
+    "code": os.getenv("AI_MODULE_CODE_URL", "https://7b782f3c-d803-4c9f-b0aa-390a5384be0e-00-3o4ya13bfhk1l.spock.replit.dev/")
 }
 
 # --- Initialize NodoAI Core ---
